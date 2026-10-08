@@ -1,1 +1,1 @@
-# AyrikMatematik2.HaftaOdev
+# Ayrık Matematik 2.Hafta Ödevi
